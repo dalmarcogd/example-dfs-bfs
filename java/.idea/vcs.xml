@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GymApp/gym_app_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GymApp/gym_app_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GymApp/gym_auth_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GymApp/gym_auth_server - python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arth_estudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/challenge_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-graphql-apollo-react-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/machine_learning_data_science" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tap_to_learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testIonicGooglePlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_angular_pwa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_django_elasticsearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_django_graphene" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_react_native" vcs="Git" />
+  </component>
+</project>
